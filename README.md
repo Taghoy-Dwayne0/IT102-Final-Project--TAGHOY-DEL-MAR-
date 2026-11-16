@@ -12,38 +12,38 @@
 Allows users to create different star patterns by choosing a shape and entering the desired number of rows.
 
 **Available Patterns:**
--Right Triangle
--Square
--Isosceles Triangle
--Inverted Right Triangle
--Christmas Tree
+Right Triangle
+Square
+-sosceles Triangle
+Inverted Right Triangle
+Christmas Tree
 
 **2. Pascal's Triangle**
 
 Creates Pascal's Triangle according to the number of rows entered by the user.
 
 **Features:**
--Displays numbers in a triangle format.
--Automatically calculates the numbers in each row.
--Uses nested loops to arrange the output.
+Displays numbers in a triangle format.
+Automatically calculates the numbers in each row.
+Uses nested loops to arrange the output.
 
 **3. Grade Calculator & Evaluator**
 
 Computes the student's average grade using four grading periods.
 
 **Required Inputs:**
--Prelim Grade
--Midterm Grade
--Pre-Final Grade
--Final Grade
+Prelim Grade
+Midterm Grade
+Pre-Final Grade
+Final Grade
 
 **Features:**
--Accepts grades from the user.
--Calculates the overall average.
--Displays the grades and final average with two decimal places.
--Determines whether the student passes or fails.
--PASS: Average is 3.00 or lower.
--FAIL: Average is higher than 3.00.
+Accepts grades from the user.
+Calculates the overall average.
+Displays the grades and final average with two decimal places.
+Determines whether the student passes or fails.
+PASS: Average is 3.00 or lower.
+FAIL: Average is higher than 3.00.
 
 **4. Palindrome Checker**
 
@@ -62,10 +62,10 @@ Hello – Not a Palindrome
 
 **Try Again Operation**
 
--Once an operation is finished, the program asks if the user wants to perform another task.
--Enter Y to go back to the main menu.
--Enter N to close the program.
--This allows users to use different features without running the program again.
+Once an operation is finished, the program asks if the user wants to perform another task.
+Enter Y to go back to the main menu.
+Enter N to close the program.
+This allows users to use different features without running the program again.
 
 **Technologies Used**
 Programming Language: C
@@ -78,16 +78,16 @@ ctype.h – Used to convert characters using tolower().
 
 **Programming Concepts Applied**
 
--Variables and Data Types
--Input and Output (scanf() and printf())
--Conditional Statements (if, else if, and else)
--Loops (for and do-while)
--Nested Loops
--Arrays and Strings
--String Functions (strlen())
--Character Functions (tolower())
--Mathematical Operations
--Logical and Relational Operators
+Variables and Data Types
+Input and Output (scanf() and printf())
+Conditional Statements (if, else if, and else)
+Loops (for and do-while)
+Nested Loops
+Arrays and Strings
+String Functions (strlen())
+Character Functions (tolower())
+Mathematical Operations
+Logical and Relational Operators
 
 How to Run the Program
 
