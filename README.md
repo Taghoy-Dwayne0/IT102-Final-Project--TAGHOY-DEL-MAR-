@@ -12,11 +12,11 @@
 Allows users to create different star patterns by choosing a shape and entering the desired number of rows.
 
 **Available Patterns:**
-Right Triangle
-Square
-Isosceles Triangle
-Inverted Right Triangle
-Christmas Tree
+1. Right Triangle
+2. Square
+3. Isosceles Triangle
+4. Inverted Right Triangle
+5. Christmas Tree
 
 **2. Pascal's Triangle**
 
