@@ -14,7 +14,7 @@ Allows users to create different star patterns by choosing a shape and entering 
 **Available Patterns:**
 Right Triangle
 Square
--sosceles Triangle
+Isosceles Triangle
 Inverted Right Triangle
 Christmas Tree
 
