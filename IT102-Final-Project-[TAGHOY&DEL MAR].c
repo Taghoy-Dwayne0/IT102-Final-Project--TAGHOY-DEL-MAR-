@@ -18,7 +18,7 @@ int main(){
 
     do{
 
-    printf("Options:\n1. The Pattern Generator\n2. Pascal's Triangle\n3. Grade Calculator & Evaluator\n4. Palindrome Checker\n");
+    printf("=======MAIN MENU=======\n1. The Pattern Generator\n2. Pascal's Triangle\n3. Grade Calculator & Evaluator\n4. Palindrome Checker\n");
     scanf("%d", &choice);
     
     if (choice == 1){
