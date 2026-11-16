@@ -98,8 +98,8 @@ Determines whether a word is the same when read forward and backward.
 
 **Follow the instructions shown on the screen.**
 
-##=======MAIN MENU=======
-#1.The Pattern Generator
-#2.Pascal's Triangle
-#3.Grade Calculator & Evaluator
-#4.Palindrome Checker
+**=======MAIN MENU=======**
+1. The Pattern Generator
+2. Pascal's Triangle
+3. Grade Calculator & Evaluator
+4. Palindrome Checker
