@@ -1,6 +1,6 @@
 # IT102-Final-Project--TAGHOY-DEL-MAR-
 
-**Project Overview**
+## **Project Overview**
 
 **This project is a C program that brings together four different activities in one menu. Users can create star patterns, generate Pascal's Triangle, calculate grades, and check if a word is a palindrome.**
 **It uses basic C programming skills, including loops, conditions, variables, arrays, strings, and user input.**
